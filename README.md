@@ -1,23 +1,22 @@
-# Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+# TabTab Docs
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+docs: 👉 https://docs.tabtab.xyz
+landing page: https://tabtab.xyz
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+![](https://imgur.com/H0GlNbr.png)
 
-## Quick Start
 
-Click the button to clone this repository and deploy it on Vercel:
+## Install
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+* [Chrome](https://chromewebstore.google.com/detail/tabtab/bplfdojoimpegfcgepljdbfjdalmcffa?utm_source=tabtab)
+* [Edge](https://microsoftedge.microsoft.com/addons/detail/tabtab/lcfijfabamlkcpdpmnioiackaaniabok?utm_source=tabtab)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gettabtab?utm_source=tabtab)
 
-## Local Development
+## Usage
 
-First, run `pnpm i` to install the dependencies.
+👉 https://docs.tabtab.xyz/usage/basic
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+## Feedback
 
-## License
-
-This project is licensed under the MIT License.
+🎉 Please submit [issue](https://github.com/jackie-feng/tabtab-docs/issues/new?title=Feedback%20).
