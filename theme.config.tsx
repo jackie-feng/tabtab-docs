@@ -2,7 +2,17 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <span>TabTab</span>,
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s - TabTab",
+    };
+  },
+  head: () => (
+    <>
+      <link rel="icon" href="/icon.svg" />
+    </>
+  ),
+  logo: <b>TabTab</b>,
   logoLink: "https://tabtab.xyz",
   project: {
     link: "https://github.com/jackie-feng/tabtab-docs",

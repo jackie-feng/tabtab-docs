@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "tabtab-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "TabTab Docs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
