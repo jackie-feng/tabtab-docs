@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" class="w-full h-full rounded-lg" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#39B5E0"/>
+      <stop offset="100%" style="stop-color:#0096B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#logoGradient)"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-size:32px;font-weight:bold;font-family:Marker Felt, fantasy">Tab</text>
+</svg>
