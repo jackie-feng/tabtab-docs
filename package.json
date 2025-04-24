@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "next-sitemap"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
     "next": "^13.0.6",
+    "next-sitemap": "^4.2.3",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
