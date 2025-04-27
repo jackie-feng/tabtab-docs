@@ -1,3 +1,18 @@
+# Release v0.4.8
+
+* 支持从 Toby 一键导入 .
+  * (Toby导出的数据里没有 Icon, 也没有拆分空间, 所以迁移不是很完美)
+* 部分 UI 调整.
+* 二次确认 Dialog 支持快捷键.
+
+---  
+
+# Release v0.4.7
+
+* 调整部分 UI
+
+---
+
 # Release v0.4.6
 
 * 不再**强制**接管新标签页, 你可以在设置(Settings > Set as default new tab)中自行设定. 
