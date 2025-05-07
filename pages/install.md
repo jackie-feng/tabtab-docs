@@ -18,15 +18,15 @@ TabTab 有两个版本, **TabTab 起始页** 和 **TabTab 标签页管理工具*
 ### TabTab 标签页管理工具
 
 
-* [Chrome](https://chromewebstore.google.com/detail/tabtab/bplfdojoimpegfcgepljdbfjdalmcffa?utm_source=tabtab) ![Chrome Extension](https://img.shields.io/chrome-web-store/v/bplfdojoimpegfcgepljdbfjdalmcffa)
-* [Edge](https://microsoftedge.microsoft.com/addons/detail/tabtab/lcfijfabamlkcpdpmnioiackaaniabok?utm_source=tabtab) ![Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Flcfijfabamlkcpdpmnioiackaaniabok)
+* [Chrome 地址](https://chromewebstore.google.com/detail/tabtab/bplfdojoimpegfcgepljdbfjdalmcffa?utm_source=tabtab) ![Chrome Extension](https://img.shields.io/chrome-web-store/v/bplfdojoimpegfcgepljdbfjdalmcffa)
+* [Edge 地址](https://microsoftedge.microsoft.com/addons/detail/tabtab/lcfijfabamlkcpdpmnioiackaaniabok?utm_source=tabtab) ![Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Flcfijfabamlkcpdpmnioiackaaniabok)
 
-* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gettabtab?utm_source=tabtab) ![Mozilla Add-on](https://img.shields.io/amo/v/gettabtab)
+* [Firefox 地址](https://addons.mozilla.org/en-US/firefox/addon/gettabtab?utm_source=tabtab) ![Mozilla Add-on](https://img.shields.io/amo/v/gettabtab)
 
 > edge 市场审核时间较长, 使用 edge 的朋友, 也可以使用 chrome 插件市场安装
 
 
 ### TabTab 起始页
 
-* [Chrome](https://chromewebstore.google.com/detail/fmpchpoilgnoeijgkamcppaigdgminhi?utm_source=tabtab)  ![Chrome Extension](https://img.shields.io/chrome-web-store/v/fmpchpoilgnoeijgkamcppaigdgminhi)
+* [Chrome 地址](https://chromewebstore.google.com/detail/fmpchpoilgnoeijgkamcppaigdgminhi?utm_source=tabtab)  ![Chrome Extension](https://img.shields.io/chrome-web-store/v/fmpchpoilgnoeijgkamcppaigdgminhi)
 
