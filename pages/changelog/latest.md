@@ -1,3 +1,9 @@
+# Release v0.4.12
+
+* 修复 WebDAV 自动同步
+
+---
+
 # Release v0.4.11
 
 * 主机权限调整:
